@@ -16,7 +16,7 @@ npm install followed by npm run develop
 ## Screenshot
 ![Screenshot](public/Screenshot_2023-11-25_121840.png)
 
-Visit it: https://kwestbrook17.github.io/Kens-React-Portfolio
+Visit it: https://jade-bubblegum-1d66dd.netlify.app/#home
 
 
  ## License
