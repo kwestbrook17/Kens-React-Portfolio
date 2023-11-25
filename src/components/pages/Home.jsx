@@ -8,17 +8,17 @@ export default function Home() {
       {/* Project 1 */}
       <div>
         <img
-          src="url_to_project_1_image"
-          alt="Project 1"
+          src="public\ocean.invaders.png"
+          alt="Ocean Invaders"
         />
-        <h2>Project 1 Title</h2>
-        <p>Description of Project 1.</p>
+        <h2>Ocean Invaders</h2>
+        <p>As a player, I want to control a Manta Ray in "Ocean Invaders," defending the ocean from descending aliens. I aim to shoot projectiles, destroy invaders, and reach the final boss while progressing through challenging levels. If an enemy reaches the bottom, I lose. After the game, I can restart for more thrilling gameplay.</p>
         <p>
-          <a href="url_to_deployed_project_1" target="_blank" rel="noopener noreferrer">
+          <a href="https://kwestbrook17.github.io/Ocean-Invaders/" target="_blank" rel="noopener noreferrer">
             View Project
           </a>{' '}
           |{' '}
-          <a href="url_to_github_repository_1" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/kwestbrook17/Ocean-Invaders" target="_blank" rel="noopener noreferrer">
             GitHub Repository
           </a>
         </p>
@@ -27,17 +27,17 @@ export default function Home() {
       {/* Project 2 */}
       <div>
         <img
-          src="url_to_project_2_image"
-          alt="Project 2"
+          src="public\fitness.tracker.png"
+          alt="Fitness Tracker"
         />
-        <h2>Project 2 Title</h2>
-        <p>Description of Project 2.</p>
+        <h2>Fitness Tracker</h2>
+        <p>Fitness Tracker offers personalized user profiles, weight tracking, and comprehensive workout input capabilities. Access tailored workout and meal suggestions powered by AI for an optimized fitness journey.</p>
         <p>
-          <a href="url_to_deployed_project_2" target="_blank" rel="noopener noreferrer">
+          <a href="https://g3fitness-tracker-54a2e145f48e.herokuapp.com/login" target="_blank" rel="noopener noreferrer">
             View Project
           </a>{' '}
           |{' '}
-          <a href="url_to_github_repository_2" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/NickUCLA/G3-Fitness-Tracker" target="_blank" rel="noopener noreferrer">
             GitHub Repository
           </a>
         </p>
@@ -46,17 +46,17 @@ export default function Home() {
       {/* Project 3 */}
       <div>
         <img
-          src="url_to_project_3_image"
+          src="public\VA.png"
           alt="Project 3"
         />
-        <h2>Project 3 Title</h2>
-        <p>Description of Project 3.</p>
+        <h2>Visuaerial Website</h2>
+        <p>Promotional and functional website for Visuaerial Drone Imaging Services</p>
         <p>
-          <a href="url_to_deployed_project_3" target="_blank" rel="noopener noreferrer">
+          <a href="https://kwestbrook17.github.io/VA/" target="_blank" rel="noopener noreferrer">
             View Project
           </a>{' '}
           |{' '}
-          <a href="url_to_github_repository_3" target="_blank" rel="noopener noreferrer">
+          <a href="https://kwestbrook17.github.io/VA/" target="_blank" rel="noopener noreferrer">
             GitHub Repository
           </a>
         </p>
@@ -65,17 +65,17 @@ export default function Home() {
       {/* Project 4 */}
       <div>
         <img
-          src="url_to_project_4_image"
+          src="public\Screenshot 2023-09-18 200803.png"
           alt="Project 4"
         />
-        <h2>Project 4 Title</h2>
-        <p>Description of Project 4.</p>
+        <h2>National Parks Itinerary Generator</h2>
+        <p>This is a React-based application that generates itineraries for visits to various national parks. Users can select a park and specify the number of days for their visit. The application interacts with the OpenAI API to generate detailed itineraries.</p>
         <p>
           <a href="url_to_deployed_project_4" target="_blank" rel="noopener noreferrer">
             View Project
           </a>{' '}
           |{' '}
-          <a href="url_to_github_repository_4" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/kwestbrook17/gpt-itin" target="_blank" rel="noopener noreferrer">
             GitHub Repository
           </a>
         </p>
@@ -84,17 +84,17 @@ export default function Home() {
       {/* Project 5 */}
       <div>
         <img
-          src="url_to_project_5_image"
+          src="public\Screenshot 2023-07-03 182050.png"
           alt="Project 5"
         />
-        <h2>Project 5 Title</h2>
-        <p>Description of Project 5.</p>
+        <h2>Password Generator</h2>
+        <p>This app uses javascript, html and css to confine to the users selected input to generate a random password they can use for various accounts</p>
         <p>
-          <a href="url_to_deployed_project_5" target="_blank" rel="noopener noreferrer">
+          <a href="https://kwestbrook17.github.io/kenspassword/" target="_blank" rel="noopener noreferrer">
             View Project
           </a>{' '}
           |{' '}
-          <a href="url_to_github_repository_5" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/kwestbrook17/kenspassword" target="_blank" rel="noopener noreferrer">
             GitHub Repository
           </a>
         </p>
@@ -103,17 +103,17 @@ export default function Home() {
       {/* Project 6 */}
       <div>
         <img
-          src="url_to_project_6_image"
+          src="public\Screenshot 2023-07-24 123204.png"
           alt="Project 6"
         />
-        <h2>Project 6 Title</h2>
-        <p>Description of Project 6.</p>
+        <h2>Work Day Scheduler</h2>
+        <p>This app allows for users to schedule their 9-5 workday</p>
         <p>
-          <a href="url_to_deployed_project_6" target="_blank" rel="noopener noreferrer">
+          <a href="https://kwestbrook17.github.io/kensdayplanner/" target="_blank" rel="noopener noreferrer">
             View Project
           </a>{' '}
           |{' '}
-          <a href="url_to_github_repository_6" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/kwestbrook17/kensdayplanner" target="_blank" rel="noopener noreferrer">
             GitHub Repository
           </a>
         </p>
